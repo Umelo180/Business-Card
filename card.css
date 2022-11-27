@@ -1,0 +1,56 @@
+body {
+    margin: 200px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #2b98f0;
+    place-content: center;
+}
+
+.avatar {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 14px;
+}
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 8px solid #5a4203;
+    border-top: 3px solid orangered;
+    border-left: 3px solid orangered;
+    border-right: 3px solid orangered;
+    border-radius: 14px;
+}
+
+.itext {
+    margin-top: 20px;
+font-size: large;
+}
+
+.itext p {
+    font-style: italic;
+    color: orange;
+}
+
+.itext h3 {
+    text-transform: uppercase;
+}
+
+.itext h4 {
+    font-size: medium;
+}
+
+
+
+
+
+
+
+
+
